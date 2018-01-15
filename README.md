@@ -1,2 +1,2 @@
 # demo
-测试Jenkins得项目
+测试Jenkins的项目
