@@ -10,6 +10,6 @@ package com.xceder;
  */
 public class FSD {
     public static void main(String[] args) {
-        System.out.println(sfdsadfs);
+        System.out.println("sfdsadfs");
     }
 }
