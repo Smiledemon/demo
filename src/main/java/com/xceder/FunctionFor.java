@@ -9,6 +9,7 @@ package com.xceder;
  * Time: 下午4:06
  */
 public class FunctionFor {
+    sdfadsffsd
     public static void main(String args[]) {
         System.out.println("Junit");
     }
