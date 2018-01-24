@@ -11,6 +11,6 @@ package com.xceder;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hellosdfsdfsdfasfd");
-        System.out.println("dsfsfsdf");
+        System.out.println("bye！");
     }
 }
