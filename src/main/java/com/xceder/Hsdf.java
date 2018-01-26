@@ -12,6 +12,6 @@ public class Hsdf {
     public static void main(String[] args) {
         System.out.println("1234456");
         System.out.println("1234456");
-        System.out.println("asdzxsdffsdcqwe1");
+        System.out.println("asdzxcqwe1");
     }
 }
