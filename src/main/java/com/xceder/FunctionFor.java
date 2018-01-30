@@ -11,6 +11,6 @@ package com.xceder;
 public class FunctionFor {
     public static void main(String args[]) {
         System.out.println("Junit");
-        System.out.println("dadsJunit");
+        System.out.println("Junit");
     }
 }
